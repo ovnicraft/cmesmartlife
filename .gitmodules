@@ -11,3 +11,6 @@
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 10.0
+[submodule "cybro"]
+	path = cybro
+	url = git@github.com:ovnicraft/cybro.git
