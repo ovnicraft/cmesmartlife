@@ -1,0 +1,3 @@
+[submodule "odooec"]
+	path = odooec
+	url = git@github.com:ovnicraft/odooec.git
