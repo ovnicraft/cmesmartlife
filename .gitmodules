@@ -26,3 +26,8 @@
 	path = prisehub/hr
 	url = git@github.com:prisehub/hr.git
 	branch = 10.0
+
+[submodule "OCA/bank-payment"]
+	path = OCA/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 10.0
