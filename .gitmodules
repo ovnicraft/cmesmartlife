@@ -11,3 +11,8 @@
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 10.0
+
+[submodule "ovnicraft/server-tools"]
+	path = ovnicraft/server-tools
+	url = git@github.com:ovnicraft/server-tools.git
+	branch = 10.0
