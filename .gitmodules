@@ -1,3 +1,8 @@
 [submodule "odooec"]
 	path = odooec
 	url = git@github.com:ovnicraft/odooec.git
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 10.0
