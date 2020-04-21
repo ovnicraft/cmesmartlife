@@ -61,3 +61,8 @@
 	path = ovnicraft/pos-prisehub
 	url = git@github.com:ovnicraft/pos-prisehub.git
 	branch = 10.0
+
+[submodule "prisehub/l10n-ec"]
+	path = prisehub/l10n-ec
+	url = git@github.com:prisehub/l10n-ec.git
+	branch = 10.0
