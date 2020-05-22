@@ -1,57 +1,52 @@
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
-	branch = 10.0
+	branch = 12.0
 
 [submodule "OCA/reporting-engine"]
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
-	branch = 10.0
+	branch = 12.0
 
-[submodule "cybro"]
-	path = cybro
-	url = git@github.com:ovnicraft/cybro.git
-
-[submodule "ovnicraft/server-tools"]
-	path = ovnicraft/server-tools
-	url = git@github.com:ovnicraft/server-tools.git
-	branch = 10.0
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 12.0
 
 [submodule "OCA/account-financial-reporting"]
 	path = OCA/account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
-	branch = 10.0
+	branch = 12.0
 
-[submodule "prisehub/hr"]
+[submodule "OCA/hr"]
 	path = prisehub/hr
-	url = git@github.com:prisehub/hr.git
-	branch = 10.0
+	url = git@github.com:OCA/hr.git
+	branch = 12.0
 
 [submodule "OCA/bank-payment"]
 	path = OCA/bank-payment
 	url = git@github.com:OCA/bank-payment.git
-	branch = 10.0
+	branch = 12.0
 
 [submodule "OCA/stock-logistics-workflow"]
 	path = OCA/stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
-	branch = 10.0
-
+	branch = 12.0
 [submodule "OCA/web"]
 	path = OCA/web
 	url = git@github.com:OCA/web.git
-	branch = 10.0
+	branch = 12.0
 
 
 [submodule "OCA/account-analytic"]
 	path = OCA/account-analytic
 	url = git@github.com:OCA/account-analytic.git
-	branch = 10.0
+	branch = 12.0
 
 [submodule "OCA/queue"]
 	path = OCA/queue
 	url = git@github.com:OCA/queue.git
-	branch = 10.0
+	branch = 12.0
 
 [submodule "ovnicraft/pos-prisehub"]
 	path = ovnicraft/pos-prisehub
@@ -61,7 +56,7 @@
 [submodule "prisehub/l10n-ec"]
 	path = prisehub/l10n-ec
 	url = git@github.com:prisehub/l10n-ec.git
-	branch = 10.0
+	branch = 12.0
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
@@ -85,4 +80,8 @@
 [submodule "OCA/account-reconcile"]
 	path = OCA/account-reconcile
 	url = git@github.com:OCA/account-reconcile.git
+	branch = 12.0
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
 	branch = 12.0
