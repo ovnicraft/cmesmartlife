@@ -62,3 +62,8 @@
 	path = prisehub/l10n-ec
 	url = git@github.com:prisehub/l10n-ec.git
 	branch = 10.0
+
+[submodule "prisehub/cme"]
+	path = prisehub/cme
+	url = git@github.com:prisehub/cme.git
+	branch = 10.0
