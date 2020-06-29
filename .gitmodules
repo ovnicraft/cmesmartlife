@@ -48,11 +48,6 @@
 	url = git@github.com:OCA/queue.git
 	branch = 12.0
 
-[submodule "ovnicraft/pos-prisehub"]
-	path = ovnicraft/pos-prisehub
-	url = git@github.com:ovnicraft/pos-prisehub.git
-	branch = 10.0
-
 [submodule "prisehub/l10n-ec"]
 	path = prisehub/l10n-ec
 	url = git@github.com:prisehub/l10n-ec.git
@@ -88,4 +83,8 @@
 [submodule "OCA/purchase-workflow"]
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
+	branch = 12.0
+[submodule "prisehub/pos"]
+	path = prisehub/pos
+	url = git@github.com:prisehub/phpos.git
 	branch = 12.0
