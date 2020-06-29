@@ -84,11 +84,6 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 12.0
-[submodule "prisehub/pos"]
-	path = prisehub/pos
-	url = git@github.com:prisehub/phpos.git
-	branch = 12.0
-
 [submodule "prisehub/phpos"]
 	path = prisehub/phpos
 	url = git@github.com:prisehub/phpos.git
