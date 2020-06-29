@@ -67,3 +67,8 @@
 	path = prisehub/cme
 	url = git@github.com:prisehub/cme.git
 	branch = 10.0
+
+[submodule "prisehub/phpos"]
+	path = prisehub/phpos
+	url = git@github.com:prisehub/phpos.git
+	branch = 10.0
