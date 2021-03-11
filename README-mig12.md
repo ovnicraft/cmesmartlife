@@ -5,3 +5,10 @@
 
 migrar foreign_trade, landed_costs_ext
 
+
+delete from stock_quant_move_rel where  move_id=29130 and quant_id=10089;
+delete from stock_quant_move_rel where quant_id = 4369 and move_id = 19357;
+
+* desinstalar account_financial_report_date_range
+
+
