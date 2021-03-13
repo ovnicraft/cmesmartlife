@@ -12,3 +12,4 @@ delete from stock_quant_move_rel where quant_id = 4369 and move_id = 19357;
 * desinstalar account_financial_report_date_range
 
 
+
