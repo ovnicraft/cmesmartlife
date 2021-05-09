@@ -93,3 +93,8 @@
 	path = phpos
 	url = git@github.com:prisehub/phpos.git
 	branch = 12.0
+
+[submodule "prisehub/phstock"]
+	path = prisehub/phstock
+	url = git@github.com:prisehub/phstock.git
+	branch = 12.0
